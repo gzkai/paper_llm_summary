@@ -66,9 +66,9 @@ find /data/workspace/arxiv_papers/src/<arxiv_id>/ -name "*.tex" \
 - **未来工作**（如有）
 数学公式优先使用下面这两种风格: $` a=1 `$
 
-``` math
+$$
 a = 1
-```
+$$
 
 ### 5. 保存总结
 
